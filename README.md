@@ -5,7 +5,6 @@
 
 I was looking for a way to automate the process of keeping my CV up-to-date. After researching a few tools, I decided that the [JSON Resume project](https://jsonresume.org/) seemed like the best choice.
 
-<!-- Script link broken -->
 This repo contains [a small script](./blob/main/build.sh) that automates the build process with a few different themes, the idea being that you can make updates and generate your resume in several different themes to see how they look. It can also be configured to generate PDF files in each theme.
 
 There are [many different themes](https://jsonresume.org/themes/) available, or you can build your own!
@@ -16,7 +15,7 @@ There is a very convenient [chrome extension](https://chrome.google.com/webstore
 ## Initial setup
 
 - Clone / fork this repo
-- Run setup.sh 
+- Run setup.sh
 
 
 ## Build process
