@@ -33,4 +33,3 @@ There is a very convenient [chrome extension](https://chrome.google.com/webstore
 # Documentation
 - JSON Resume: (https://jsonresume.org/)
 - Github pages: (https://pages.github.com/)
-- Markdown editor: https://github.com/robichaudc/portfolio/edit/master/README.md
