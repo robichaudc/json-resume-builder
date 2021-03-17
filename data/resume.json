@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "Chris Robichaud",
+    "label": "Senior Android Developer",
+    "picture": "",
+    "email": "crobicha@gmail.com",
+    "phone": "617.539.6303",
+    "website": "https://robichaudc.github.io/portfolio",
+    "summary": "Software Engineer focused on Android development, with experience in iOS, web and back-end development as well. Experience designing and delivering responsive applications using a broad range of languages and platforms. DevOps responsibilities including live production deployments and support for high-traffic services. Management of projects and developer teams in an Agile setting. Interested in how technology can be used to build a more sustainable future.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Watertown",
+      "countryCode": "US",
+      "region": "Boston"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "crobicha",
+        "url": "https://www.linkedin.com/in/crobicha/"
+      },
+      {
+        "network": "Twitter",
+        "username": "crobicha",
+        "url": "https://twitter.com/crobicha"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Aetna / CVS",
+      "position": "Senior Android Developer",
+      "website": "https://www.linkedin.com/company/2807",
+      "startDate": "2017-09-30",
+      "summary": "The Aetna Digital unit within Aetna builds web and mobile apps that help customers manage their health and insurance",
+      "highlights": [
+        "Winner of internal hackathon with prototype features",
+        "Tech lead for scrum team"
+      ]
+    },
+    {
+      "company": "Trapelo Productions",
+      "endDate": "2017-08-31",
+      "highlights": [],
+      "position": "Full-Stack Developer",
+      "startDate": "2016-08-31",
+      "summary": "- Co-founding member of development team focused on web & mobile applications. Responsibilities include technical leadership, project management and business development.- Management of development process including resource allocation, technical design, implementation, testing and deployment strategies.- Creation of native iOS app and React JS webapp for live video streaming service, featuring custom clip creation, user favorites and sharing, managing channel subscriptions. Work included automated testing, docker deployments and performance optimization.- Delivery of custom, responsive websites that match design guidelines with client requirements- Implementation of Agile engineering processes, Scrum workflow, team collaboration tools",
+      "url": ""
+    },
+    {
+      "company": "Symantec",
+      "endDate": "2016-07-31",
+      "highlights": [],
+      "position": "Senior Software Engineer",
+      "startDate": "2011-04-30",
+      "summary": "- Ground-up rebuild of Norton Family Android app, which handles enforcing family rules such as website and SMS blocking- Rebuild of Norton Identity Safe website, an online password vault where security is critical- Technical lead for Norton Family licensing and purchasing architecture redesign- Development of high-volume web services used by Norton applications for endpoint tracking, data storage and notifications- Live production deployments and setup of monitoring dashboards with Splunk- Setup of continuous integration systems to automatically build, test and stage release candidates- 2nd place in 2014 Norton Hackathon, submission was used to patent new detection methods for the Wifi Pineapple, a wifi hacking device- Volunteer with Tufts' Student Teacher Outreach Mentorship Program (STOMP), teaching engineering to elementary students by building robots with Lego Mindstorms kits",
+      "url": "https://www.linkedin.com/company/1231"
+    },
+    {
+      "company": "The Juegas Group",
+      "endDate": "2011-04-30",
+      "highlights": [],
+      "position": "Software Engineer",
+      "startDate": "2010-09-30",
+      "summary": "- Worked with a small team responsible for all aspects of the development lifecycle, including requirements analysis, application design, implementation, testing and deployment- Development of custom Flex web applications leveraging CNET and Twitter APIs, populated with dynamic data at run-time via XML- Setup and configuration of custom Drupal site including development of custom theming and CSS for client's portfolio site, delivered well ahead of schedule",
+      "url": "https://www.linkedin.com/company/1932579"
+    },
+    {
+      "company": "Coler & Colantonio, Inc.",
+      "endDate": "2010-09-30",
+      "highlights": [],
+      "position": "Software Engineer (Contract)",
+      "startDate": "2010-05-31",
+      "summary": "- Lead developer on user-facing C# process management application, prioritized tasks for junior developers and QA team- Completed framework to allow standard .Net UI controls automatically update Oracle or MySQL database fields when modified- Multi-tasked between several ongoing projects and delivered working code to meet tight deadlines",
+      "url": "https://www.linkedin.com/company/113226"
+    },
+    {
+      "company": "Progress Software",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2008-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Development of C++ and C# versions of SonicMQ, a Java Message Service middleware library",
+      "highlights": [
+        "Resolved customer issues including race conditions and platform-specific issues",
+        "Created comprehensive documentation of project internals and usage for developers, QA and documentation teams"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Tufts STOMP",
+      "position": "Volunteer instructor",
+      "url": "",
+      "startDate": "2011-09-30",
+      "endDate": "2013-05-31",
+      "summary": "STOMP (Student Teacher Outreach Mentorship Program) is an opportunity for undergraduate, graduate, high school, and industry employees to promote engineering education in K-12 settings. STOMP fellows provide expert engineering knowledge to K-12 classrooms to assist/mentor K-12 teachers and students. Simultaneously, STOMP fellows learn about K-12 learning from the teachers and students.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Massachusetts at Lowell",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2003-09-01",
+      "endDate": "2008-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Release engineering",
+      "Xlevel": "Master",
+      "keywords": [
+        "Git",
+        "Git-flow model"
+      ]
+    },
+    {
+      "name": "Android Development",
+      "Xlevel": "Master",
+      "keywords": [
+        "Kotlin",
+        "Java",
+        "Dagger",
+        "Espresso"
+      ]
+    },
+    {
+      "name": "Test Driven Development"
+    },
+    {
+      "name": "Other Development",
+      "keywords": [
+        "React JS",
+        "Node, NPM",
+        "jQuery",
+        "Bootstrap, SASS",
+        "iOS: Swift",
+        "Python, shell scripting"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Linux sysadmin",
+        "Docker",
+        "Python, Shell scripting"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "Xname": "Open-source",
+      "keywords": [
+        "Hardware hacking, microcontrollers",
+        "3d printing",
+        "Cryptocurrency, blockchains"
+      ]
+    }
+  ]
+}
