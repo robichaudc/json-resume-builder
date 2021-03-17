@@ -1,4 +1,4 @@
-# Resume-builder
+# JSON Resume Builder
 
 - [Link](https://registry.jsonresume.org/robichaudc)
 - [Repo](https://github.com/robichaudc/resume-source)
